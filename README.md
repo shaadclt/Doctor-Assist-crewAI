@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 4. Set up environment variables:
 
-Create a .env file in the project directory with the following content:
+- Create a .env file in the project directory with the following content:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
 SERPER_API_KEY=your_serper_api_key
