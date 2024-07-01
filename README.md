@@ -7,15 +7,6 @@ This project leverages advanced AI agents from crewAI to assist doctors in diagn
 - **Treatment Recommendations:** Offers detailed treatment plans tailored to individual patient needs.
 - **Document Generation:** Generates a downloadable document with diagnosis and treatment recommendations.
 
-## Requirements
-1. Python 3.8+
-2. streamlit
-3. crewai
-4. crewai_tools
-5. python-dotenv
-6. langchain_openai
-7. python-docx
-
 ## Installation
 1. Clone the repository:
 
