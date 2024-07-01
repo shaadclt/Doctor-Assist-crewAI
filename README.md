@@ -66,4 +66,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - CrewAI for the agent and task management tools.
 
 ## Contact
-For any questions or suggestions, please contact [Mohamed Shaad] at [shaadclt@gmail.com].
+For any questions or suggestions, please contact Mohamed Shaad at shaadclt@gmail.com.
