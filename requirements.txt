@@ -5,3 +5,4 @@ python-dotenv
 langchain_openai
 langchain_community
 python-docx
+langchain_groq
