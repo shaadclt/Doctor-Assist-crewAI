@@ -40,7 +40,7 @@ GROQ_API_KEY=your_groq_api_key
 1. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run app_openi.py or streamlit run app_groq.py
 ```
 
 2. Use the application:
