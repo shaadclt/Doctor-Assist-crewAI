@@ -56,7 +56,7 @@ streamlit run app_openi.py or streamlit run app_groq.py
 - **.env:** Environment variables for API keys (not included in the repository).
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
